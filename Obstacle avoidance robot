@@ -1,5 +1,5 @@
 /*Obstacle avoidance Robot car.
-  created by the Ksp
+ Kirti swagat pattanayak
   Read the code below and use it for any of your creation
 */
 #include <AFMotor.h>
